@@ -13,7 +13,7 @@ public class MathUtilsTest {
         var n2 = 30;
 
         var result = MathUtils.sum(n1, n2);
-        Assertions.assertEquals(30, result);
+        Assertions.assertEquals(40, result);
     }
 
 }
